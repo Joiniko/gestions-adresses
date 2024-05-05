@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66230c302ebdeb1012c6d113"
+  },
+  "nom": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "66230c432ebdeb1012c6d114"
+  },
+  "nom": "Musée"
+},
+{
+  "_id": {
+    "$oid": "66230c572ebdeb1012c6d115"
+  },
+  "nom": "Bar"
+},
+{
+  "_id": {
+    "$oid": "66230c612ebdeb1012c6d116"
+  },
+  "nom": "Parc"
+}]
